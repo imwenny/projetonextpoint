@@ -5,7 +5,7 @@ Execute o banco de dados MySQL
 ```
 
 ```
-Faça a instalalçao das dependencias do servidor e do cliente, usando npm i  dentro de ambos os diretorios.
+Faça a instalaçao das dependencias do servidor e do cliente, usando npm i  dentro de ambos os diretorios.
 ```
 
 ```
